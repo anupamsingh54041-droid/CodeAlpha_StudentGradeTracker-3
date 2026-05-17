@@ -61,8 +61,3 @@ Lowest Marks: 80
 
 
 
-
-```md id="e2s8hf"
-## 👩‍💻 Author
-Sakshi Singh
-
