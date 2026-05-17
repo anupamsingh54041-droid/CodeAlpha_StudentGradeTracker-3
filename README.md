@@ -58,3 +58,7 @@ Enter marks: 90
 Average Marks: 85
 Highest Marks: 90
 Lowest Marks: 80
+
+## 👩‍💻 Author
+
+Sakshi Singh
