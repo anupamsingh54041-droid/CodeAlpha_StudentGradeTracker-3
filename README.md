@@ -1,2 +1,2 @@
-# CodeAlpha_StudentGradeTracker-3
+# CodeAlpha_StudentGradeTracker1
 Java Student Grade Tracker project for CodeAlpha Internship
